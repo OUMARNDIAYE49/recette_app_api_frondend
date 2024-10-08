@@ -1,0 +1,102 @@
+{
+  "categorie": {
+    "ajouterTitre": "Add New Category",
+    "nomCategorie": "Category Name",
+    "ajouter": "Add",
+    "retourListe": "Return to List",
+    "erreurAjout": "An error occurred while adding the category.",
+    "detailsTitre": "Category Details",
+    "nom": "Category Name:",
+    "nonTrouvee": "Category not found.",
+    "modifierTitre": "Edit Category",
+    "enregistrerModifications": "Save Changes",
+    "annuler": "Cancel"
+  },
+  "navbar": {
+    "brand": "Recipe Management",
+    "home": "Home",
+    "recipesList": "Recipes List",
+    "addRecipe": "Add Recipe",
+    "categoriesList": "Categories List",
+    "addCategory": "Add a Category"
+  },
+  "home": {
+    "welcomeMessage": "Welcome to the Recipe Management Application",
+    "leadText": "Discover, add, and manage your favorite recipes.",
+    "navigateInstructions": "Use the menu to navigate between pages and start adding your recipes.",
+    "viewRecipesButton": "View Recipes"
+  },
+  "recettes": {
+    "listTitle": "List of Recipes",
+    "addRecipe": "Add New Recipe",
+    "searchPlaceholder": "Search...",
+    "ajouterTitre": "Add a New Recipe",
+    "modifierTitre": "Edit Recipe",
+    "id": "ID",
+    "titleColumn": "Title",
+    "ingredients": "Ingredients",
+    "type": "Type",
+    "category": "Category",
+    "actions": "Actions",
+    "viewDetails": "View Details",
+    "edit": "Edit",
+    "delete": "Delete",
+    "save": "Save Changes",
+    "cancel": "Cancel",
+    "entrée": "Starter",
+    "plat": "Main Course",
+    "dessert": "Dessert",
+    "retourListe": "Back to List",
+    "recetteNonTrouvee": "Recipe not found.",
+    "form": {
+      "titreRecette": "Recipe Title",
+      "ingredients": "Ingredients",
+      "typeRecette": "Recipe Type",
+      "entrée": "Appetizer",
+      "plat": "Main Course",
+      "dessert": "Dessert",
+      "categorie": "Category",
+      "salades": "Salads",
+      "pates": "Pasta",
+      "gateaux": "Cakes",
+      "quiches": "Quiches",
+      "végétarien": "Vegetarian",
+      "vegan": "Vegan",
+      "sansGluten": "Gluten-Free",
+      "classique": "Classic",
+      "submitAdd": "Add Recipe",
+      "submitEdit": "Edit Recipe",
+      "annuler": "Cancel"
+    },
+    "errors": {
+      "emptyCategory": "Please fill in the category before adding.",
+      "deleteConfirmation": "Are you sure you want to delete this item?"
+    }
+  },
+  "categoryList": {
+    "title": "List of Categories",
+    "addCategory": "Add a Category",
+    "searchCategory": "Search Category",
+    "error": "Please fill in the category name.",
+    "actions": "Actions",
+    "viewDetails": "View Details",
+    "edit": "Edit",
+    "delete": "Delete",
+    "deleteConfirm": "Are you sure you want to delete the category \"{name}\"?"
+  },
+  "recipeList": {
+    "title": "List of Recipes ",
+    "searchPlaceholder": "Search Recipe...",
+    "addRecipe": "Add New Recipe",
+    "noRecipesFound": "No recipes found.",
+    "id": "#",
+    "recipeTitle": "Title",
+    "ingredients": "Ingredients",
+    "type": "Type",
+    "category": "Category",
+    "actions": "Actions",
+    "viewDetails": "View Details",
+    "edit": "Edit",
+    "delete": "Delete"
+  }
+}
